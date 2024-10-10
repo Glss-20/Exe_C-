@@ -1,0 +1,14 @@
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\bin\Debug\net8.0\ExBiblioteca.exe
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\bin\Debug\net8.0\ExBiblioteca.deps.json
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\bin\Debug\net8.0\ExBiblioteca.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\bin\Debug\net8.0\ExBiblioteca.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\bin\Debug\net8.0\ExBiblioteca.pdb
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\refint\ExBiblioteca.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.pdb
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ref\ExBiblioteca.dll
