@@ -12,3 +12,4 @@ D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8
 D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.pdb
 D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.genruntimeconfig.cache
 D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ref\ExBiblioteca.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\Biblioteca\ExBiblioteca\obj\Debug\net8.0\ExBiblioteca.sourcelink.json

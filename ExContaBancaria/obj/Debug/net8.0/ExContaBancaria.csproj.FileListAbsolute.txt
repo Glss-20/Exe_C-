@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\bin\Debug\net8.0\ExContaBancaria.exe
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\bin\Debug\net8.0\ExContaBancaria.deps.json
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\bin\Debug\net8.0\ExContaBancaria.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\bin\Debug\net8.0\ExContaBancaria.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\bin\Debug\net8.0\ExContaBancaria.pdb
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\refint\ExContaBancaria.dll
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.pdb
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ExContaBancaria.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Exercicio_C#\ExContaBancaria\obj\Debug\net8.0\ref\ExContaBancaria.dll
